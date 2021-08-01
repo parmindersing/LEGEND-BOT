@@ -1,4 +1,3 @@
-Hello guys 🙂 i am LEGEND X 
-I AM STILL WORKING ON LEGEND BOT 😀
-I USE PYTHON LANGUAGE 🌐
-ONLY I AM WORKING IN LEGEND BOT😔🌟
+I AM STILL WORKING ON LEGEND BOT �🌟# this is my first tutorial #for troid import asyncio @ultroid_and(patter="telethon" )async def legendx(event):await asyncio .sleep (5) await event.edit("helo my code is running") await event.reply ("yeah working")   await syncio .sleep (5)  await bot.send_message("event.chat_id, "hello this is also_running") await syncio.sleep(5) await bot.send_message("@legendx22","helo vro your code is working")"await syncio.sleep"(5)await bot send message(1844265313)",id trick also working"    
+ from legend import telethon as bot     from legend .event import register   "@register pattern (/-telethon)   async def hehe(event):     
+   # for grand official     import asyncio @ultroid_and(patter="telethon" )async def legendx(event):await asyncio .sleep (5) await event.edit("helo my code is running") await event.reply ("yeah working")   await syncio .sleep (5)  await bot.send_message("event.chat_id, "hello this is also_running") await syncio.sleep(5) await bot.send_message("@legendx22","helo vro your code is working")"await syncio.sleep"(5)await bot send message(1844265313)",id trick also working"
